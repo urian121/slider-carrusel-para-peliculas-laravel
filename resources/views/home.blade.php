@@ -14,6 +14,8 @@
           h1{
             font-weight: 800;
             text-align: center;
+            background-color: #fed317;
+            padding: 10px;
           }
         </style>
     </head>
